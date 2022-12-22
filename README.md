@@ -4,6 +4,6 @@
   <tr>
     <td>
       <h3>To-do-list</h3>
-      <a href="https://fernandoleonid.github.io/mini-projetos-js/07-todo-List/"><img src="./img/07-todo-List.gif" width="250px" ></a>
+      <a href="https://github.com/Petersonsantos19/TODO-LIST"><img src="./img/todo-List.gif" width="450px" ></a>
     </td>
   </tr>
